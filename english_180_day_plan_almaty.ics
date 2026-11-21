@@ -1,0 +1,2348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//English 180 Day Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:English A2 to B2 - 180 Days
+X-WR-TIMEZONE:Asia/Almaty
+BEGIN:VEVENT
+UID:english180-day1@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261122T140000
+DTEND;TZID=Asia/Almaty:20261122T151500
+SUMMARY:English 1/180: Present simple vs present continuous
+DESCRIPTION:Day 1/180 | A2 consolidation\\nTopic: Present simple vs present continuous\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day2@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261123T140000
+DTEND;TZID=Asia/Almaty:20261123T151500
+SUMMARY:English 2/180: Past simple and past continuous
+DESCRIPTION:Day 2/180 | A2 consolidation\\nTopic: Past simple and past continuous\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day3@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261124T140000
+DTEND;TZID=Asia/Almaty:20261124T151500
+SUMMARY:English 3/180: Present perfect: experience and results
+DESCRIPTION:Day 3/180 | A2 consolidation\\nTopic: Present perfect: experience and results\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day4@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261125T171500
+DTEND;TZID=Asia/Almaty:20261125T183000
+SUMMARY:English 4/180: Future forms: will\, going to\, present continuous
+DESCRIPTION:Day 4/180 | A2 consolidation\\nTopic: Future forms: will\, going to\, present continuous\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day5@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261126T140000
+DTEND;TZID=Asia/Almaty:20261126T151500
+SUMMARY:English 5/180: Countable and uncountable nouns
+DESCRIPTION:Day 5/180 | A2 consolidation\\nTopic: Countable and uncountable nouns\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day6@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261127T140000
+DTEND;TZID=Asia/Almaty:20261127T151500
+SUMMARY:English 6/180: Articles: a\, an\, the\, zero article
+DESCRIPTION:Day 6/180 | A2 consolidation\\nTopic: Articles: a\, an\, the\, zero article\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day7@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261128T140000
+DTEND;TZID=Asia/Almaty:20261128T151500
+SUMMARY:English 7/180: Comparatives and superlatives
+DESCRIPTION:Day 7/180 | A2 consolidation\\nTopic: Comparatives and superlatives\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day8@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261129T140000
+DTEND;TZID=Asia/Almaty:20261129T151500
+SUMMARY:English 8/180: Adverbs of frequency and manner
+DESCRIPTION:Day 8/180 | A2 consolidation\\nTopic: Adverbs of frequency and manner\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day9@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261130T140000
+DTEND;TZID=Asia/Almaty:20261130T151500
+SUMMARY:English 9/180: Modal verbs: can\, could\, should
+DESCRIPTION:Day 9/180 | A2 consolidation\\nTopic: Modal verbs: can\, could\, should\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day10@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261201T140000
+DTEND;TZID=Asia/Almaty:20261201T151500
+SUMMARY:English 10/180: Have to\, must and mustn't
+DESCRIPTION:Day 10/180 | A2 consolidation\\nTopic: Have to\, must and mustn't\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day11@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261202T171500
+DTEND;TZID=Asia/Almaty:20261202T183000
+SUMMARY:English 11/180: Questions and question forms
+DESCRIPTION:Day 11/180 | A2 consolidation\\nTopic: Questions and question forms\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day12@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261203T140000
+DTEND;TZID=Asia/Almaty:20261203T151500
+SUMMARY:English 12/180: Prepositions of time and place
+DESCRIPTION:Day 12/180 | A2 consolidation\\nTopic: Prepositions of time and place\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day13@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261204T140000
+DTEND;TZID=Asia/Almaty:20261204T151500
+SUMMARY:English 13/180: Gerunds and infinitives
+DESCRIPTION:Day 13/180 | A2 consolidation\\nTopic: Gerunds and infinitives\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day14@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261205T140000
+DTEND;TZID=Asia/Almaty:20261205T151500
+SUMMARY:English 14/180: First conditional
+DESCRIPTION:Day 14/180 | A2 consolidation\\nTopic: First conditional\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day15@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261206T140000
+DTEND;TZID=Asia/Almaty:20261206T151500
+SUMMARY:English 15/180: Zero conditional
+DESCRIPTION:Day 15/180 | A2 consolidation\\nTopic: Zero conditional\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day16@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261207T140000
+DTEND;TZID=Asia/Almaty:20261207T151500
+SUMMARY:English 16/180: Second conditional: basics
+DESCRIPTION:Day 16/180 | A2 consolidation\\nTopic: Second conditional: basics\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day17@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261208T140000
+DTEND;TZID=Asia/Almaty:20261208T151500
+SUMMARY:English 17/180: Relative clauses: who\, which\, that
+DESCRIPTION:Day 17/180 | A2 consolidation\\nTopic: Relative clauses: who\, which\, that\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day18@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261209T171500
+DTEND;TZID=Asia/Almaty:20261209T183000
+SUMMARY:English 18/180: Passive voice: present and past
+DESCRIPTION:Day 18/180 | A2 consolidation\\nTopic: Passive voice: present and past\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day19@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261210T140000
+DTEND;TZID=Asia/Almaty:20261210T151500
+SUMMARY:English 19/180: Reported speech: statements
+DESCRIPTION:Day 19/180 | A2 consolidation\\nTopic: Reported speech: statements\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day20@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261211T140000
+DTEND;TZID=Asia/Almaty:20261211T151500
+SUMMARY:English 20/180: Phrasal verbs for everyday life
+DESCRIPTION:Day 20/180 | A2 consolidation\\nTopic: Phrasal verbs for everyday life\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day21@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261212T140000
+DTEND;TZID=Asia/Almaty:20261212T151500
+SUMMARY:English 21/180: Describing people and roles
+DESCRIPTION:Day 21/180 | A2 consolidation\\nTopic: Describing people and roles\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day22@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261213T140000
+DTEND;TZID=Asia/Almaty:20261213T151500
+SUMMARY:English 22/180: Explaining routines and processes
+DESCRIPTION:Day 22/180 | A2 consolidation\\nTopic: Explaining routines and processes\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day23@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261214T140000
+DTEND;TZID=Asia/Almaty:20261214T151500
+SUMMARY:English 23/180: Giving directions and instructions
+DESCRIPTION:Day 23/180 | A2 consolidation\\nTopic: Giving directions and instructions\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day24@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261215T140000
+DTEND;TZID=Asia/Almaty:20261215T151500
+SUMMARY:English 24/180: Travel and accommodation vocabulary
+DESCRIPTION:Day 24/180 | A2 consolidation\\nTopic: Travel and accommodation vocabulary\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day25@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261216T171500
+DTEND;TZID=Asia/Almaty:20261216T183000
+SUMMARY:English 25/180: Listening for key information
+DESCRIPTION:Day 25/180 | A2 consolidation\\nTopic: Listening for key information\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day26@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261217T140000
+DTEND;TZID=Asia/Almaty:20261217T151500
+SUMMARY:English 26/180: Pronunciation: word stress
+DESCRIPTION:Day 26/180 | A2 consolidation\\nTopic: Pronunciation: word stress\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day27@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261218T140000
+DTEND;TZID=Asia/Almaty:20261218T151500
+SUMMARY:English 27/180: Writing a clear paragraph
+DESCRIPTION:Day 27/180 | A2 consolidation\\nTopic: Writing a clear paragraph\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day28@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261219T140000
+DTEND;TZID=Asia/Almaty:20261219T151500
+SUMMARY:English 28/180: Speaking: opinions and reasons
+DESCRIPTION:Day 28/180 | A2 consolidation\\nTopic: Speaking: opinions and reasons\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day29@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261220T140000
+DTEND;TZID=Asia/Almaty:20261220T151500
+SUMMARY:English 29/180: Reading: identifying main ideas
+DESCRIPTION:Day 29/180 | A2 consolidation\\nTopic: Reading: identifying main ideas\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day30@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261221T140000
+DTEND;TZID=Asia/Almaty:20261221T151500
+SUMMARY:English 30/180: A2 review and progress test
+DESCRIPTION:Day 30/180 | A2 consolidation\\nTopic: A2 review and progress test\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day31@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261222T140000
+DTEND;TZID=Asia/Almaty:20261222T151500
+SUMMARY:English 31/180: Present perfect vs past simple
+DESCRIPTION:Day 31/180 | B1 development\\nTopic: Present perfect vs past simple\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day32@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261223T171500
+DTEND;TZID=Asia/Almaty:20261223T183000
+SUMMARY:English 32/180: Past perfect: sequence of events
+DESCRIPTION:Day 32/180 | B1 development\\nTopic: Past perfect: sequence of events\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day33@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261224T140000
+DTEND;TZID=Asia/Almaty:20261224T151500
+SUMMARY:English 33/180: Narrative tenses
+DESCRIPTION:Day 33/180 | B1 development\\nTopic: Narrative tenses\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day34@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261225T140000
+DTEND;TZID=Asia/Almaty:20261225T151500
+SUMMARY:English 34/180: Used to and would
+DESCRIPTION:Day 34/180 | B1 development\\nTopic: Used to and would\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day35@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261226T140000
+DTEND;TZID=Asia/Almaty:20261226T151500
+SUMMARY:English 35/180: Future continuous and future perfect
+DESCRIPTION:Day 35/180 | B1 development\\nTopic: Future continuous and future perfect\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day36@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261227T140000
+DTEND;TZID=Asia/Almaty:20261227T151500
+SUMMARY:English 36/180: Modals of deduction
+DESCRIPTION:Day 36/180 | B1 development\\nTopic: Modals of deduction\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day37@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261228T140000
+DTEND;TZID=Asia/Almaty:20261228T151500
+SUMMARY:English 37/180: Modal verbs for advice and obligation
+DESCRIPTION:Day 37/180 | B1 development\\nTopic: Modal verbs for advice and obligation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day38@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261229T140000
+DTEND;TZID=Asia/Almaty:20261229T151500
+SUMMARY:English 38/180: Second conditional in discussion
+DESCRIPTION:Day 38/180 | B1 development\\nTopic: Second conditional in discussion\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day39@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261230T171500
+DTEND;TZID=Asia/Almaty:20261230T183000
+SUMMARY:English 39/180: Third conditional: introduction
+DESCRIPTION:Day 39/180 | B1 development\\nTopic: Third conditional: introduction\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day40@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20261231T140000
+DTEND;TZID=Asia/Almaty:20261231T151500
+SUMMARY:English 40/180: Wish and if only
+DESCRIPTION:Day 40/180 | B1 development\\nTopic: Wish and if only\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day41@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270101T140000
+DTEND;TZID=Asia/Almaty:20270101T151500
+SUMMARY:English 41/180: Passive voice across tenses
+DESCRIPTION:Day 41/180 | B1 development\\nTopic: Passive voice across tenses\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day42@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270102T140000
+DTEND;TZID=Asia/Almaty:20270102T151500
+SUMMARY:English 42/180: Causative have/get
+DESCRIPTION:Day 42/180 | B1 development\\nTopic: Causative have/get\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day43@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270103T140000
+DTEND;TZID=Asia/Almaty:20270103T151500
+SUMMARY:English 43/180: Reported questions and commands
+DESCRIPTION:Day 43/180 | B1 development\\nTopic: Reported questions and commands\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day44@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270104T140000
+DTEND;TZID=Asia/Almaty:20270104T151500
+SUMMARY:English 44/180: Defining and non-defining clauses
+DESCRIPTION:Day 44/180 | B1 development\\nTopic: Defining and non-defining clauses\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day45@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270105T140000
+DTEND;TZID=Asia/Almaty:20270105T151500
+SUMMARY:English 45/180: Linkers: contrast and result
+DESCRIPTION:Day 45/180 | B1 development\\nTopic: Linkers: contrast and result\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day46@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270106T171500
+DTEND;TZID=Asia/Almaty:20270106T183000
+SUMMARY:English 46/180: Concession: although\, despite\, however
+DESCRIPTION:Day 46/180 | B1 development\\nTopic: Concession: although\, despite\, however\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day47@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270107T140000
+DTEND;TZID=Asia/Almaty:20270107T151500
+SUMMARY:English 47/180: Articles and determiners review
+DESCRIPTION:Day 47/180 | B1 development\\nTopic: Articles and determiners review\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day48@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270108T140000
+DTEND;TZID=Asia/Almaty:20270108T151500
+SUMMARY:English 48/180: Quantifiers and expressions of amount
+DESCRIPTION:Day 48/180 | B1 development\\nTopic: Quantifiers and expressions of amount\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day49@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270109T140000
+DTEND;TZID=Asia/Almaty:20270109T151500
+SUMMARY:English 49/180: Prepositions after adjectives
+DESCRIPTION:Day 49/180 | B1 development\\nTopic: Prepositions after adjectives\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day50@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270110T140000
+DTEND;TZID=Asia/Almaty:20270110T151500
+SUMMARY:English 50/180: Dependent prepositions
+DESCRIPTION:Day 50/180 | B1 development\\nTopic: Dependent prepositions\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day51@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270111T140000
+DTEND;TZID=Asia/Almaty:20270111T151500
+SUMMARY:English 51/180: Phrasal verbs in context
+DESCRIPTION:Day 51/180 | B1 development\\nTopic: Phrasal verbs in context\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day52@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270112T140000
+DTEND;TZID=Asia/Almaty:20270112T151500
+SUMMARY:English 52/180: Collocations for work and study
+DESCRIPTION:Day 52/180 | B1 development\\nTopic: Collocations for work and study\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day53@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270113T171500
+DTEND;TZID=Asia/Almaty:20270113T183000
+SUMMARY:English 53/180: Formal vs informal register
+DESCRIPTION:Day 53/180 | B1 development\\nTopic: Formal vs informal register\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day54@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270114T140000
+DTEND;TZID=Asia/Almaty:20270114T151500
+SUMMARY:English 54/180: Writing a professional email
+DESCRIPTION:Day 54/180 | B1 development\\nTopic: Writing a professional email\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day55@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270115T140000
+DTEND;TZID=Asia/Almaty:20270115T151500
+SUMMARY:English 55/180: Writing a structured opinion essay
+DESCRIPTION:Day 55/180 | B1 development\\nTopic: Writing a structured opinion essay\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day56@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270116T140000
+DTEND;TZID=Asia/Almaty:20270116T151500
+SUMMARY:English 56/180: Listening to extended conversations
+DESCRIPTION:Day 56/180 | B1 development\\nTopic: Listening to extended conversations\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day57@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270117T140000
+DTEND;TZID=Asia/Almaty:20270117T151500
+SUMMARY:English 57/180: Speaking: compare and contrast
+DESCRIPTION:Day 57/180 | B1 development\\nTopic: Speaking: compare and contrast\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day58@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270118T140000
+DTEND;TZID=Asia/Almaty:20270118T151500
+SUMMARY:English 58/180: Speaking: agree and disagree
+DESCRIPTION:Day 58/180 | B1 development\\nTopic: Speaking: agree and disagree\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day59@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270119T140000
+DTEND;TZID=Asia/Almaty:20270119T151500
+SUMMARY:English 59/180: Reading: inference and tone
+DESCRIPTION:Day 59/180 | B1 development\\nTopic: Reading: inference and tone\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day60@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270120T171500
+DTEND;TZID=Asia/Almaty:20270120T183000
+SUMMARY:English 60/180: B1 review and mock assessment
+DESCRIPTION:Day 60/180 | B1 development\\nTopic: B1 review and mock assessment\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day61@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270121T140000
+DTEND;TZID=Asia/Almaty:20270121T151500
+SUMMARY:English 61/180: Company structures and departments
+DESCRIPTION:Day 61/180 | Business and finance English\\nTopic: Company structures and departments\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day62@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270122T140000
+DTEND;TZID=Asia/Almaty:20270122T151500
+SUMMARY:English 62/180: Describing a company's business model
+DESCRIPTION:Day 62/180 | Business and finance English\\nTopic: Describing a company's business model\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day63@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270123T140000
+DTEND;TZID=Asia/Almaty:20270123T151500
+SUMMARY:English 63/180: Revenue\, costs and profitability
+DESCRIPTION:Day 63/180 | Business and finance English\\nTopic: Revenue\, costs and profitability\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day64@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270124T140000
+DTEND;TZID=Asia/Almaty:20270124T151500
+SUMMARY:English 64/180: Balance sheet vocabulary
+DESCRIPTION:Day 64/180 | Business and finance English\\nTopic: Balance sheet vocabulary\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day65@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270125T140000
+DTEND;TZID=Asia/Almaty:20270125T151500
+SUMMARY:English 65/180: Income statement vocabulary
+DESCRIPTION:Day 65/180 | Business and finance English\\nTopic: Income statement vocabulary\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day66@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270126T140000
+DTEND;TZID=Asia/Almaty:20270126T151500
+SUMMARY:English 66/180: Cash flow statement vocabulary
+DESCRIPTION:Day 66/180 | Business and finance English\\nTopic: Cash flow statement vocabulary\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day67@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270127T171500
+DTEND;TZID=Asia/Almaty:20270127T183000
+SUMMARY:English 67/180: Financial ratios and performance
+DESCRIPTION:Day 67/180 | Business and finance English\\nTopic: Financial ratios and performance\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day68@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270128T140000
+DTEND;TZID=Asia/Almaty:20270128T151500
+SUMMARY:English 68/180: Explaining quarterly results
+DESCRIPTION:Day 68/180 | Business and finance English\\nTopic: Explaining quarterly results\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day69@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270129T140000
+DTEND;TZID=Asia/Almaty:20270129T151500
+SUMMARY:English 69/180: Market capitalization and valuation
+DESCRIPTION:Day 69/180 | Business and finance English\\nTopic: Market capitalization and valuation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day70@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270130T140000
+DTEND;TZID=Asia/Almaty:20270130T151500
+SUMMARY:English 70/180: Equity\, debt and capital structure
+DESCRIPTION:Day 70/180 | Business and finance English\\nTopic: Equity\, debt and capital structure\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day71@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270131T140000
+DTEND;TZID=Asia/Almaty:20270131T151500
+SUMMARY:English 71/180: Stocks\, bonds and market indices
+DESCRIPTION:Day 71/180 | Business and finance English\\nTopic: Stocks\, bonds and market indices\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day72@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270201T140000
+DTEND;TZID=Asia/Almaty:20270201T151500
+SUMMARY:English 72/180: Bull and bear market language
+DESCRIPTION:Day 72/180 | Business and finance English\\nTopic: Bull and bear market language\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day73@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270202T140000
+DTEND;TZID=Asia/Almaty:20270202T151500
+SUMMARY:English 73/180: Macroeconomic indicators
+DESCRIPTION:Day 73/180 | Business and finance English\\nTopic: Macroeconomic indicators\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day74@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270203T171500
+DTEND;TZID=Asia/Almaty:20270203T183000
+SUMMARY:English 74/180: Inflation\, interest rates and central banks
+DESCRIPTION:Day 74/180 | Business and finance English\\nTopic: Inflation\, interest rates and central banks\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day75@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270204T140000
+DTEND;TZID=Asia/Almaty:20270204T151500
+SUMMARY:English 75/180: Foreign exchange and currencies
+DESCRIPTION:Day 75/180 | Business and finance English\\nTopic: Foreign exchange and currencies\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day76@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270205T140000
+DTEND;TZID=Asia/Almaty:20270205T151500
+SUMMARY:English 76/180: Risk\, return and volatility
+DESCRIPTION:Day 76/180 | Business and finance English\\nTopic: Risk\, return and volatility\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day77@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270206T140000
+DTEND;TZID=Asia/Almaty:20270206T151500
+SUMMARY:English 77/180: Portfolio allocation and diversification
+DESCRIPTION:Day 77/180 | Business and finance English\\nTopic: Portfolio allocation and diversification\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day78@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270207T140000
+DTEND;TZID=Asia/Almaty:20270207T151500
+SUMMARY:English 78/180: Investment thesis vocabulary
+DESCRIPTION:Day 78/180 | Business and finance English\\nTopic: Investment thesis vocabulary\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day79@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270208T140000
+DTEND;TZID=Asia/Almaty:20270208T151500
+SUMMARY:English 79/180: Equity research report structure
+DESCRIPTION:Day 79/180 | Business and finance English\\nTopic: Equity research report structure\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day80@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270209T140000
+DTEND;TZID=Asia/Almaty:20270209T151500
+SUMMARY:English 80/180: Company overview and industry analysis
+DESCRIPTION:Day 80/180 | Business and finance English\\nTopic: Company overview and industry analysis\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day81@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270210T171500
+DTEND;TZID=Asia/Almaty:20270210T183000
+SUMMARY:English 81/180: DCF valuation terminology
+DESCRIPTION:Day 81/180 | Business and finance English\\nTopic: DCF valuation terminology\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day82@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270211T140000
+DTEND;TZID=Asia/Almaty:20270211T151500
+SUMMARY:English 82/180: WACC and cost of capital
+DESCRIPTION:Day 82/180 | Business and finance English\\nTopic: WACC and cost of capital\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day83@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270212T140000
+DTEND;TZID=Asia/Almaty:20270212T151500
+SUMMARY:English 83/180: Comparable company analysis
+DESCRIPTION:Day 83/180 | Business and finance English\\nTopic: Comparable company analysis\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day84@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270213T140000
+DTEND;TZID=Asia/Almaty:20270213T151500
+SUMMARY:English 84/180: M&A terminology and deal process
+DESCRIPTION:Day 84/180 | Business and finance English\\nTopic: M&A terminology and deal process\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day85@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270214T140000
+DTEND;TZID=Asia/Almaty:20270214T151500
+SUMMARY:English 85/180: Credit risk and lending vocabulary
+DESCRIPTION:Day 85/180 | Business and finance English\\nTopic: Credit risk and lending vocabulary\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day86@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270215T140000
+DTEND;TZID=Asia/Almaty:20270215T151500
+SUMMARY:English 86/180: Banking products and fintech
+DESCRIPTION:Day 86/180 | Business and finance English\\nTopic: Banking products and fintech\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day87@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270216T140000
+DTEND;TZID=Asia/Almaty:20270216T151500
+SUMMARY:English 87/180: Explaining charts and financial data
+DESCRIPTION:Day 87/180 | Business and finance English\\nTopic: Explaining charts and financial data\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day88@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270217T171500
+DTEND;TZID=Asia/Almaty:20270217T183000
+SUMMARY:English 88/180: Presenting an investment recommendation
+DESCRIPTION:Day 88/180 | Business and finance English\\nTopic: Presenting an investment recommendation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day89@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270218T140000
+DTEND;TZID=Asia/Almaty:20270218T151500
+SUMMARY:English 89/180: Business meeting and negotiation phrases
+DESCRIPTION:Day 89/180 | Business and finance English\\nTopic: Business meeting and negotiation phrases\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day90@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270219T140000
+DTEND;TZID=Asia/Almaty:20270219T151500
+SUMMARY:English 90/180: Finance vocabulary review and case study
+DESCRIPTION:Day 90/180 | Business and finance English\\nTopic: Finance vocabulary review and case study\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day91@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270220T140000
+DTEND;TZID=Asia/Almaty:20270220T151500
+SUMMARY:English 91/180: Complex sentence structures
+DESCRIPTION:Day 91/180 | B1+ to B2 grammar and fluency\\nTopic: Complex sentence structures\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day92@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270221T140000
+DTEND;TZID=Asia/Almaty:20270221T151500
+SUMMARY:English 92/180: Inversion for emphasis
+DESCRIPTION:Day 92/180 | B1+ to B2 grammar and fluency\\nTopic: Inversion for emphasis\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day93@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270222T140000
+DTEND;TZID=Asia/Almaty:20270222T151500
+SUMMARY:English 93/180: Cleft sentences
+DESCRIPTION:Day 93/180 | B1+ to B2 grammar and fluency\\nTopic: Cleft sentences\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day94@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270223T140000
+DTEND;TZID=Asia/Almaty:20270223T151500
+SUMMARY:English 94/180: Advanced conditionals
+DESCRIPTION:Day 94/180 | B1+ to B2 grammar and fluency\\nTopic: Advanced conditionals\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day95@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270224T171500
+DTEND;TZID=Asia/Almaty:20270224T183000
+SUMMARY:English 95/180: Mixed conditionals
+DESCRIPTION:Day 95/180 | B1+ to B2 grammar and fluency\\nTopic: Mixed conditionals\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day96@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270225T140000
+DTEND;TZID=Asia/Almaty:20270225T151500
+SUMMARY:English 96/180: Modal perfect forms
+DESCRIPTION:Day 96/180 | B1+ to B2 grammar and fluency\\nTopic: Modal perfect forms\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day97@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270226T140000
+DTEND;TZID=Asia/Almaty:20270226T151500
+SUMMARY:English 97/180: Speculation and probability
+DESCRIPTION:Day 97/180 | B1+ to B2 grammar and fluency\\nTopic: Speculation and probability\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day98@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270227T140000
+DTEND;TZID=Asia/Almaty:20270227T151500
+SUMMARY:English 98/180: Advanced passive structures
+DESCRIPTION:Day 98/180 | B1+ to B2 grammar and fluency\\nTopic: Advanced passive structures\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day99@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270228T140000
+DTEND;TZID=Asia/Almaty:20270228T151500
+SUMMARY:English 99/180: Participle clauses
+DESCRIPTION:Day 99/180 | B1+ to B2 grammar and fluency\\nTopic: Participle clauses\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day100@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270301T140000
+DTEND;TZID=Asia/Almaty:20270301T151500
+SUMMARY:English 100/180: Reduced relative clauses
+DESCRIPTION:Day 100/180 | B1+ to B2 grammar and fluency\\nTopic: Reduced relative clauses\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day101@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270302T140000
+DTEND;TZID=Asia/Almaty:20270302T151500
+SUMMARY:English 101/180: Nominalisation
+DESCRIPTION:Day 101/180 | B1+ to B2 grammar and fluency\\nTopic: Nominalisation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day102@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270303T171500
+DTEND;TZID=Asia/Almaty:20270303T183000
+SUMMARY:English 102/180: Complex noun phrases
+DESCRIPTION:Day 102/180 | B1+ to B2 grammar and fluency\\nTopic: Complex noun phrases\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day103@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270304T140000
+DTEND;TZID=Asia/Almaty:20270304T151500
+SUMMARY:English 103/180: Discourse markers for argument
+DESCRIPTION:Day 103/180 | B1+ to B2 grammar and fluency\\nTopic: Discourse markers for argument\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day104@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270305T140000
+DTEND;TZID=Asia/Almaty:20270305T151500
+SUMMARY:English 104/180: Hedging and cautious language
+DESCRIPTION:Day 104/180 | B1+ to B2 grammar and fluency\\nTopic: Hedging and cautious language\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day105@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270306T140000
+DTEND;TZID=Asia/Almaty:20270306T151500
+SUMMARY:English 105/180: Precision with articles
+DESCRIPTION:Day 105/180 | B1+ to B2 grammar and fluency\\nTopic: Precision with articles\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day106@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270307T140000
+DTEND;TZID=Asia/Almaty:20270307T151500
+SUMMARY:English 106/180: Advanced verb patterns
+DESCRIPTION:Day 106/180 | B1+ to B2 grammar and fluency\\nTopic: Advanced verb patterns\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day107@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270308T140000
+DTEND;TZID=Asia/Almaty:20270308T151500
+SUMMARY:English 107/180: Subjunctive and formal recommendations
+DESCRIPTION:Day 107/180 | B1+ to B2 grammar and fluency\\nTopic: Subjunctive and formal recommendations\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day108@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270309T140000
+DTEND;TZID=Asia/Almaty:20270309T151500
+SUMMARY:English 108/180: Emphasis and fronting
+DESCRIPTION:Day 108/180 | B1+ to B2 grammar and fluency\\nTopic: Emphasis and fronting\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day109@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270310T171500
+DTEND;TZID=Asia/Almaty:20270310T183000
+SUMMARY:English 109/180: Ellipsis and substitution
+DESCRIPTION:Day 109/180 | B1+ to B2 grammar and fluency\\nTopic: Ellipsis and substitution\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day110@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270311T140000
+DTEND;TZID=Asia/Almaty:20270311T151500
+SUMMARY:English 110/180: Idiomatic language in context
+DESCRIPTION:Day 110/180 | B1+ to B2 grammar and fluency\\nTopic: Idiomatic language in context\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day111@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270312T140000
+DTEND;TZID=Asia/Almaty:20270312T151500
+SUMMARY:English 111/180: Natural collocations
+DESCRIPTION:Day 111/180 | B1+ to B2 grammar and fluency\\nTopic: Natural collocations\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day112@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270313T140000
+DTEND;TZID=Asia/Almaty:20270313T151500
+SUMMARY:English 112/180: Paraphrasing without changing meaning
+DESCRIPTION:Day 112/180 | B1+ to B2 grammar and fluency\\nTopic: Paraphrasing without changing meaning\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day113@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270314T140000
+DTEND;TZID=Asia/Almaty:20270314T151500
+SUMMARY:English 113/180: Summarising long texts
+DESCRIPTION:Day 113/180 | B1+ to B2 grammar and fluency\\nTopic: Summarising long texts\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day114@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270315T140000
+DTEND;TZID=Asia/Almaty:20270315T151500
+SUMMARY:English 114/180: Listening to different accents
+DESCRIPTION:Day 114/180 | B1+ to B2 grammar and fluency\\nTopic: Listening to different accents\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day115@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270316T140000
+DTEND;TZID=Asia/Almaty:20270316T151500
+SUMMARY:English 115/180: Following fast speech
+DESCRIPTION:Day 115/180 | B1+ to B2 grammar and fluency\\nTopic: Following fast speech\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day116@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270317T171500
+DTEND;TZID=Asia/Almaty:20270317T183000
+SUMMARY:English 116/180: Pronunciation: connected speech
+DESCRIPTION:Day 116/180 | B1+ to B2 grammar and fluency\\nTopic: Pronunciation: connected speech\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day117@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270318T140000
+DTEND;TZID=Asia/Almaty:20270318T151500
+SUMMARY:English 117/180: Pronunciation: intonation and stance
+DESCRIPTION:Day 117/180 | B1+ to B2 grammar and fluency\\nTopic: Pronunciation: intonation and stance\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day118@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270319T140000
+DTEND;TZID=Asia/Almaty:20270319T151500
+SUMMARY:English 118/180: Speaking fluently under time pressure
+DESCRIPTION:Day 118/180 | B1+ to B2 grammar and fluency\\nTopic: Speaking fluently under time pressure\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day119@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270320T140000
+DTEND;TZID=Asia/Almaty:20270320T151500
+SUMMARY:English 119/180: Debating a complex issue
+DESCRIPTION:Day 119/180 | B1+ to B2 grammar and fluency\\nTopic: Debating a complex issue\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day120@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270321T140000
+DTEND;TZID=Asia/Almaty:20270321T151500
+SUMMARY:English 120/180: B2 grammar and fluency checkpoint
+DESCRIPTION:Day 120/180 | B1+ to B2 grammar and fluency\\nTopic: B2 grammar and fluency checkpoint\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nVOA Learning English: https://learningenglish.voanews.com/\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day121@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270322T140000
+DTEND;TZID=Asia/Almaty:20270322T151500
+SUMMARY:English 121/180: Executive summaries
+DESCRIPTION:Day 121/180 | Advanced professional communication\\nTopic: Executive summaries\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day122@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270323T140000
+DTEND;TZID=Asia/Almaty:20270323T151500
+SUMMARY:English 122/180: Writing analytical memos
+DESCRIPTION:Day 122/180 | Advanced professional communication\\nTopic: Writing analytical memos\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day123@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270324T171500
+DTEND;TZID=Asia/Almaty:20270324T183000
+SUMMARY:English 123/180: Writing concise business emails
+DESCRIPTION:Day 123/180 | Advanced professional communication\\nTopic: Writing concise business emails\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day124@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270325T140000
+DTEND;TZID=Asia/Almaty:20270325T151500
+SUMMARY:English 124/180: Presenting data-driven findings
+DESCRIPTION:Day 124/180 | Advanced professional communication\\nTopic: Presenting data-driven findings\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day125@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270326T140000
+DTEND;TZID=Asia/Almaty:20270326T151500
+SUMMARY:English 125/180: Explaining assumptions and limitations
+DESCRIPTION:Day 125/180 | Advanced professional communication\\nTopic: Explaining assumptions and limitations\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day126@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270327T140000
+DTEND;TZID=Asia/Almaty:20270327T151500
+SUMMARY:English 126/180: Discussing uncertainty and scenarios
+DESCRIPTION:Day 126/180 | Advanced professional communication\\nTopic: Discussing uncertainty and scenarios\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day127@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270328T140000
+DTEND;TZID=Asia/Almaty:20270328T151500
+SUMMARY:English 127/180: Answering challenging questions
+DESCRIPTION:Day 127/180 | Advanced professional communication\\nTopic: Answering challenging questions\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day128@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270329T140000
+DTEND;TZID=Asia/Almaty:20270329T151500
+SUMMARY:English 128/180: Structuring a persuasive presentation
+DESCRIPTION:Day 128/180 | Advanced professional communication\\nTopic: Structuring a persuasive presentation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day129@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270330T140000
+DTEND;TZID=Asia/Almaty:20270330T151500
+SUMMARY:English 129/180: Investment pitch: opening and thesis
+DESCRIPTION:Day 129/180 | Advanced professional communication\\nTopic: Investment pitch: opening and thesis\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day130@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270331T171500
+DTEND;TZID=Asia/Almaty:20270331T183000
+SUMMARY:English 130/180: Investment pitch: catalysts and risks
+DESCRIPTION:Day 130/180 | Advanced professional communication\\nTopic: Investment pitch: catalysts and risks\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day131@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270401T140000
+DTEND;TZID=Asia/Almaty:20270401T151500
+SUMMARY:English 131/180: Defending a valuation
+DESCRIPTION:Day 131/180 | Advanced professional communication\\nTopic: Defending a valuation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day132@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270402T140000
+DTEND;TZID=Asia/Almaty:20270402T151500
+SUMMARY:English 132/180: Discussing financial statements
+DESCRIPTION:Day 132/180 | Advanced professional communication\\nTopic: Discussing financial statements\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day133@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270403T140000
+DTEND;TZID=Asia/Almaty:20270403T151500
+SUMMARY:English 133/180: Explaining credit metrics
+DESCRIPTION:Day 133/180 | Advanced professional communication\\nTopic: Explaining credit metrics\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day134@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270404T140000
+DTEND;TZID=Asia/Almaty:20270404T151500
+SUMMARY:English 134/180: Discussing market outlook
+DESCRIPTION:Day 134/180 | Advanced professional communication\\nTopic: Discussing market outlook\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day135@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270405T140000
+DTEND;TZID=Asia/Almaty:20270405T151500
+SUMMARY:English 135/180: Macroeconomic briefing
+DESCRIPTION:Day 135/180 | Advanced professional communication\\nTopic: Macroeconomic briefing\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day136@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270406T140000
+DTEND;TZID=Asia/Almaty:20270406T151500
+SUMMARY:English 136/180: Negotiation: framing and concessions
+DESCRIPTION:Day 136/180 | Advanced professional communication\\nTopic: Negotiation: framing and concessions\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day137@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270407T171500
+DTEND;TZID=Asia/Almaty:20270407T183000
+SUMMARY:English 137/180: Professional networking conversations
+DESCRIPTION:Day 137/180 | Advanced professional communication\\nTopic: Professional networking conversations\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day138@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270408T140000
+DTEND;TZID=Asia/Almaty:20270408T151500
+SUMMARY:English 138/180: Interview: career narrative
+DESCRIPTION:Day 138/180 | Advanced professional communication\\nTopic: Interview: career narrative\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day139@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270409T140000
+DTEND;TZID=Asia/Almaty:20270409T151500
+SUMMARY:English 139/180: Interview: strengths and weaknesses
+DESCRIPTION:Day 139/180 | Advanced professional communication\\nTopic: Interview: strengths and weaknesses\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day140@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270410T140000
+DTEND;TZID=Asia/Almaty:20270410T151500
+SUMMARY:English 140/180: Interview: technical finance questions
+DESCRIPTION:Day 140/180 | Advanced professional communication\\nTopic: Interview: technical finance questions\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day141@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270411T140000
+DTEND;TZID=Asia/Almaty:20270411T151500
+SUMMARY:English 141/180: Interview: behavioral questions
+DESCRIPTION:Day 141/180 | Advanced professional communication\\nTopic: Interview: behavioral questions\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day142@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270412T140000
+DTEND;TZID=Asia/Almaty:20270412T151500
+SUMMARY:English 142/180: Participating in meetings
+DESCRIPTION:Day 142/180 | Advanced professional communication\\nTopic: Participating in meetings\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day143@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270413T140000
+DTEND;TZID=Asia/Almaty:20270413T151500
+SUMMARY:English 143/180: Interrupting and clarifying politely
+DESCRIPTION:Day 143/180 | Advanced professional communication\\nTopic: Interrupting and clarifying politely\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day144@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270414T171500
+DTEND;TZID=Asia/Almaty:20270414T183000
+SUMMARY:English 144/180: Managing disagreement professionally
+DESCRIPTION:Day 144/180 | Advanced professional communication\\nTopic: Managing disagreement professionally\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day145@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270415T140000
+DTEND;TZID=Asia/Almaty:20270415T151500
+SUMMARY:English 145/180: Writing a research conclusion
+DESCRIPTION:Day 145/180 | Advanced professional communication\\nTopic: Writing a research conclusion\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day146@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270416T140000
+DTEND;TZID=Asia/Almaty:20270416T151500
+SUMMARY:English 146/180: Editing for clarity and concision
+DESCRIPTION:Day 146/180 | Advanced professional communication\\nTopic: Editing for clarity and concision\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day147@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270417T140000
+DTEND;TZID=Asia/Almaty:20270417T151500
+SUMMARY:English 147/180: Academic sources and citations
+DESCRIPTION:Day 147/180 | Advanced professional communication\\nTopic: Academic sources and citations\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day148@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270418T140000
+DTEND;TZID=Asia/Almaty:20270418T151500
+SUMMARY:English 148/180: Critical reading of financial news
+DESCRIPTION:Day 148/180 | Advanced professional communication\\nTopic: Critical reading of financial news\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day149@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270419T140000
+DTEND;TZID=Asia/Almaty:20270419T151500
+SUMMARY:English 149/180: Case study: company analysis
+DESCRIPTION:Day 149/180 | Advanced professional communication\\nTopic: Case study: company analysis\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day150@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270420T140000
+DTEND;TZID=Asia/Almaty:20270420T151500
+SUMMARY:English 150/180: Professional communication assessment
+DESCRIPTION:Day 150/180 | Advanced professional communication\\nTopic: Professional communication assessment\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nInvestopedia: https://www.investopedia.com/\\nCFI: https://corporatefinanceinstitute.com/resources/\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day151@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270421T171500
+DTEND;TZID=Asia/Almaty:20270421T183000
+SUMMARY:English 151/180: B2 reading: argument and inference
+DESCRIPTION:Day 151/180 | B2 consolidation and assessment\\nTopic: B2 reading: argument and inference\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day152@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270422T140000
+DTEND;TZID=Asia/Almaty:20270422T151500
+SUMMARY:English 152/180: B2 listening: lectures and interviews
+DESCRIPTION:Day 152/180 | B2 consolidation and assessment\\nTopic: B2 listening: lectures and interviews\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day153@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270423T140000
+DTEND;TZID=Asia/Almaty:20270423T151500
+SUMMARY:English 153/180: B2 speaking: extended response
+DESCRIPTION:Day 153/180 | B2 consolidation and assessment\\nTopic: B2 speaking: extended response\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day154@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270424T140000
+DTEND;TZID=Asia/Almaty:20270424T151500
+SUMMARY:English 154/180: B2 writing: formal essay
+DESCRIPTION:Day 154/180 | B2 consolidation and assessment\\nTopic: B2 writing: formal essay\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day155@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270425T140000
+DTEND;TZID=Asia/Almaty:20270425T151500
+SUMMARY:English 155/180: B2 writing: report
+DESCRIPTION:Day 155/180 | B2 consolidation and assessment\\nTopic: B2 writing: report\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day156@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270426T140000
+DTEND;TZID=Asia/Almaty:20270426T151500
+SUMMARY:English 156/180: B2 writing: proposal
+DESCRIPTION:Day 156/180 | B2 consolidation and assessment\\nTopic: B2 writing: proposal\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day157@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270427T140000
+DTEND;TZID=Asia/Almaty:20270427T151500
+SUMMARY:English 157/180: Complex grammar consolidation
+DESCRIPTION:Day 157/180 | B2 consolidation and assessment\\nTopic: Complex grammar consolidation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day158@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270428T171500
+DTEND;TZID=Asia/Almaty:20270428T183000
+SUMMARY:English 158/180: Conditionals and modal review
+DESCRIPTION:Day 158/180 | B2 consolidation and assessment\\nTopic: Conditionals and modal review\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day159@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270429T140000
+DTEND;TZID=Asia/Almaty:20270429T151500
+SUMMARY:English 159/180: Passive and reported speech review
+DESCRIPTION:Day 159/180 | B2 consolidation and assessment\\nTopic: Passive and reported speech review\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day160@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270430T140000
+DTEND;TZID=Asia/Almaty:20270430T151500
+SUMMARY:English 160/180: Linking and cohesion review
+DESCRIPTION:Day 160/180 | B2 consolidation and assessment\\nTopic: Linking and cohesion review\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day161@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270501T140000
+DTEND;TZID=Asia/Almaty:20270501T151500
+SUMMARY:English 161/180: Vocabulary: business and economics
+DESCRIPTION:Day 161/180 | B2 consolidation and assessment\\nTopic: Vocabulary: business and economics\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day162@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270502T140000
+DTEND;TZID=Asia/Almaty:20270502T151500
+SUMMARY:English 162/180: Vocabulary: markets and investing
+DESCRIPTION:Day 162/180 | B2 consolidation and assessment\\nTopic: Vocabulary: markets and investing\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day163@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270503T140000
+DTEND;TZID=Asia/Almaty:20270503T151500
+SUMMARY:English 163/180: Vocabulary: technology and cybersecurity
+DESCRIPTION:Day 163/180 | B2 consolidation and assessment\\nTopic: Vocabulary: technology and cybersecurity\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day164@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270504T140000
+DTEND;TZID=Asia/Almaty:20270504T151500
+SUMMARY:English 164/180: Idioms and collocations review
+DESCRIPTION:Day 164/180 | B2 consolidation and assessment\\nTopic: Idioms and collocations review\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day165@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270505T171500
+DTEND;TZID=Asia/Almaty:20270505T183000
+SUMMARY:English 165/180: Pronunciation and intelligibility
+DESCRIPTION:Day 165/180 | B2 consolidation and assessment\\nTopic: Pronunciation and intelligibility\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day166@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270506T140000
+DTEND;TZID=Asia/Almaty:20270506T151500
+SUMMARY:English 166/180: Listening: note-taking
+DESCRIPTION:Day 166/180 | B2 consolidation and assessment\\nTopic: Listening: note-taking\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day167@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270507T140000
+DTEND;TZID=Asia/Almaty:20270507T151500
+SUMMARY:English 167/180: Reading: scanning and skimming
+DESCRIPTION:Day 167/180 | B2 consolidation and assessment\\nTopic: Reading: scanning and skimming\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day168@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270508T140000
+DTEND;TZID=Asia/Almaty:20270508T151500
+SUMMARY:English 168/180: Summarising a research article
+DESCRIPTION:Day 168/180 | B2 consolidation and assessment\\nTopic: Summarising a research article\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day169@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270509T140000
+DTEND;TZID=Asia/Almaty:20270509T151500
+SUMMARY:English 169/180: Writing a financial commentary
+DESCRIPTION:Day 169/180 | B2 consolidation and assessment\\nTopic: Writing a financial commentary\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day170@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270510T140000
+DTEND;TZID=Asia/Almaty:20270510T151500
+SUMMARY:English 170/180: Presenting a company in five minutes
+DESCRIPTION:Day 170/180 | B2 consolidation and assessment\\nTopic: Presenting a company in five minutes\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day171@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270511T140000
+DTEND;TZID=Asia/Almaty:20270511T151500
+SUMMARY:English 171/180: Mock interview: HR round
+DESCRIPTION:Day 171/180 | B2 consolidation and assessment\\nTopic: Mock interview: HR round\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day172@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270512T171500
+DTEND;TZID=Asia/Almaty:20270512T183000
+SUMMARY:English 172/180: Mock interview: technical round
+DESCRIPTION:Day 172/180 | B2 consolidation and assessment\\nTopic: Mock interview: technical round\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day173@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270513T140000
+DTEND;TZID=Asia/Almaty:20270513T151500
+SUMMARY:English 173/180: Equity research mini-presentation
+DESCRIPTION:Day 173/180 | B2 consolidation and assessment\\nTopic: Equity research mini-presentation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day174@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270514T140000
+DTEND;TZID=Asia/Almaty:20270514T151500
+SUMMARY:English 174/180: Discussing a macroeconomic scenario
+DESCRIPTION:Day 174/180 | B2 consolidation and assessment\\nTopic: Discussing a macroeconomic scenario\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day175@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270515T140000
+DTEND;TZID=Asia/Almaty:20270515T151500
+SUMMARY:English 175/180: Debate: regulation and competition
+DESCRIPTION:Day 175/180 | B2 consolidation and assessment\\nTopic: Debate: regulation and competition\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day176@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270516T140000
+DTEND;TZID=Asia/Almaty:20270516T151500
+SUMMARY:English 176/180: B2 First Use of English practice
+DESCRIPTION:Day 176/180 | B2 consolidation and assessment\\nTopic: B2 First Use of English practice\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day177@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270517T140000
+DTEND;TZID=Asia/Almaty:20270517T151500
+SUMMARY:English 177/180: B2 First Reading and Listening practice
+DESCRIPTION:Day 177/180 | B2 consolidation and assessment\\nTopic: B2 First Reading and Listening practice\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day178@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270518T140000
+DTEND;TZID=Asia/Almaty:20270518T151500
+SUMMARY:English 178/180: B2 First Writing timed task
+DESCRIPTION:Day 178/180 | B2 consolidation and assessment\\nTopic: B2 First Writing timed task\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day179@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270519T171500
+DTEND;TZID=Asia/Almaty:20270519T183000
+SUMMARY:English 179/180: B2 First Speaking simulation
+DESCRIPTION:Day 179/180 | B2 consolidation and assessment\\nTopic: B2 First Speaking simulation\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:english180-day180@amrkyxc.github.io
+DTSTAMP:20261121T234500Z
+DTSTART;TZID=Asia/Almaty:20270520T140000
+DTEND;TZID=Asia/Almaty:20270520T151500
+SUMMARY:English 180/180: Final assessment and next-step plan
+DESCRIPTION:Day 180/180 | B2 consolidation and assessment\\nTopic: Final assessment and next-step plan\\n\\n75-minute session:\\n- 15 min: learn the target language\\n- 20 min: listening or reading\\n- 20 min: speaking or writing output\\n- 10 min: vocabulary review\\n- 10 min: error log and Anki\\n\\nResources:\\nCambridge B2 First: https://www.cambridgeenglish.org/exams-and-tests/first/\\nBritish Council grammar: https://learnenglish.britishcouncil.org/grammar\\nBBC Learning English: https://www.bbc.co.uk/learningenglish\\nCambridge Dictionary: https://dictionary.cambridge.org/\\n\\nRecord 5 new expressions and produce a short spoken or written summary.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:English study session
+END:VALARM
+END:VEVENT
+END:VCALENDAR
